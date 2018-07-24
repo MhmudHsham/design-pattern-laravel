@@ -13,3 +13,4 @@
 
 
 Route::get('/observer', 'observer\HomeController@index');
+Route::get('/facade', 'Facade\HomeController@index');
